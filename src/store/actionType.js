@@ -1,0 +1,6 @@
+export const one = "one"
+export const two = "two"
+export const three = "three"
+export const four = "four"
+export const five = "five"
+export const change = "change"
